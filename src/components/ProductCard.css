@@ -1,0 +1,13 @@
+article 
+{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    height: 500px;
+    width: 200px;
+    background-color: lightgray;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
