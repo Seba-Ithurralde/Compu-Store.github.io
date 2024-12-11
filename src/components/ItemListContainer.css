@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1
+{
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+.productos
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.productos img
+{
+    border: 2px solid black;
+    width: 250px;
+    margin: 10px;
+    border-radius: 1rem;
+}
+
+article
+{
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    border: 2px solid rgba(22, 233, 198, 0.562);
+}
+
+.boton
+{
+    border: 2px solid rgb(75, 247, 189);
+}

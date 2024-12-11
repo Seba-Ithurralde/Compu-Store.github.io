@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+body
+{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: linear-gradient(rgb(3, 104, 206), rgb(75, 247, 189));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
