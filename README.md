@@ -1,4 +1,4 @@
-# Proyecto final React
+# Proyecto Final React
 
 ## Reseña del proyecto:
 
